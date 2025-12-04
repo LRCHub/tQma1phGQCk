@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Green Room",
+  "base_artist": "Ken Carson",
+  "createdAt": "2025-12-04T17:16:26.567007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Troubadour’s Green Room",
+      "artist": "The Good Life",
+      "has_synced": true,
+      "path": "select/01_The_Troubadour’s_Green_Room_The_Good_Life.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Green Room",
+      "artist": "Ken Carson",
+      "has_synced": true,
+      "path": "select/02_Green_Room_Ken_Carson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "in the green room",
+      "artist": "Montaigne",
+      "has_synced": true,
+      "path": "select/03_in_the_green_room_Montaigne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pigs in the Green Room",
+      "artist": "Onsind",
+      "has_synced": false,
+      "path": "select/04_Pigs_in_the_Green_Room_Onsind.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ain't No Rest For The Wicked - Nokia Green Room Session",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/05_Ain't_No_Rest_For_The_Wicked_-_Nokia_Green_Room_Session_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Cry - Live at Nokia Green Room",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/06_We_Cry_-_Live_at_Nokia_Green_Room_The_Script.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ain't No Rest For The Wicked (Nokia Green Room Session)",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/07_Ain't_No_Rest_For_The_Wicked_(Nokia_Green_Room_Session)_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Green Room Pale (A1 S3)",
+      "artist": "Paul Shapera",
+      "has_synced": false,
+      "path": "select/08_The_Green_Room_Pale_(A1_S3)_Paul_Shapera.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Green Room",
+      "artist": "Henry Jamison",
+      "has_synced": true,
+      "path": "select/09_Green_Room_Henry_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Before The Worst  (Live at Nokia Green Room)",
+      "artist": "The Script",
+      "has_synced": true,
+      "path": "select/10_Before_The_Worst_(Live_at_Nokia_Green_Room)_The_Script.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Green Room (feat. Ed Droste)",
+      "artist": "Henry Jamison & Ed Droste",
+      "has_synced": true,
+      "path": "select/11_Green_Room_(feat._Ed_Droste)_Henry_Jamison_&_Ed_Droste.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Green Room",
+      "artist": "Henry Jamison & Ed Droste",
+      "has_synced": true,
+      "path": "select/12_Green_Room_Henry_Jamison_&_Ed_Droste.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Green Room (feat. Ed Droste)",
+      "artist": "Henry Jamison",
+      "has_synced": true,
+      "path": "select/13_Green_Room_(feat._Ed_Droste)_Henry_Jamison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ain’t No Rest for the Wicked – Nokia Green Room Session",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/14_Ain’t_No_Rest_for_the_Wicked_–_Nokia_Green_Room_Session_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Will Be Light (Live at WSUN's Green Room)",
+      "artist": "Matisyahu",
+      "has_synced": false,
+      "path": "select/15_I_Will_Be_Light_(Live_at_WSUN's_Green_Room)_Matisyahu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Green Room (feat. Johnny Yukon)",
+      "artist": "Lou Val",
+      "has_synced": true,
+      "path": "select/16_Green_Room_(feat._Johnny_Yukon)_Lou_Val.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Green Room",
+      "artist": "Ken Carson",
+      "has_synced": false,
+      "path": "select/pl_01_Green_Room_Ken_Carson.txt"
+    }
+  ]
+}
